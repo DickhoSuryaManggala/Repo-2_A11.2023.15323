@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mushroom Classification using Decision Tree
 
 ## Overview
@@ -45,3 +46,6 @@ python decisiontree_generic.py --csv "Mushrooms.csv" --target class --map e:0,p:
 ```bash
 jupyter notebook decisiontree.ipynb
 ```
+=======
+# Repo-2_A11.2023.15323
+>>>>>>> 06a8299cb6b2989a4fecba3cbecb73a5d2676def
